@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\matematik\matematik\obj\Debug\matematik.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\matematik\matematik\obj\Debug\matematik.Properties.Resources.resources
+C:\Users\Acer\source\repos\matematik\matematik\obj\Debug\matematik.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\matematik\matematik\obj\Debug\matematik.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\matematik\matematik\bin\Debug\matematik.exe.config
+C:\Users\Acer\source\repos\matematik\matematik\bin\Debug\matematik.exe
+C:\Users\Acer\source\repos\matematik\matematik\bin\Debug\matematik.pdb
+C:\Users\Acer\source\repos\matematik\matematik\obj\Debug\matematik.Form1.resources
+C:\Users\Acer\source\repos\matematik\matematik\obj\Debug\matematik.exe
+C:\Users\Acer\source\repos\matematik\matematik\obj\Debug\matematik.pdb
